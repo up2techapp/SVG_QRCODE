@@ -1,0 +1,22 @@
+{
+  "name": "svg-qrcode-generator",
+  "version": "1.0.0",
+  "description": "Générateur de QR codes au format SVG pour des références",
+  "main": "src/qrGenerator.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node examples/generateReference.js",
+    "test": "node examples/generateReference.js"
+  },
+  "keywords": [
+    "qrcode",
+    "svg",
+    "generator",
+    "reference"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
