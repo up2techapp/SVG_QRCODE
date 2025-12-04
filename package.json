@@ -7,7 +7,8 @@
   "scripts": {
     "generate": "node examples/generateReference.js",
     "test": "node examples/generateReference.js",
-    "quick": "node quick-start.js"
+    "quick": "node quick-start.js",
+    "mass": "node mass-generate.js"
   },
   "keywords": [
     "qrcode",
