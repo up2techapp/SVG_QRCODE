@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "generate": "node examples/generateReference.js",
-    "test": "node examples/generateReference.js"
+    "test": "node examples/generateReference.js",
+    "quick": "node quick-start.js"
   },
   "keywords": [
     "qrcode",

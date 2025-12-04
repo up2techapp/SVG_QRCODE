@@ -18,6 +18,18 @@ Un outil Node.js simple et efficace pour générer des QR codes au format SVG à
 npm install
 ```
 
+## ⚡ Démarrage rapide
+
+La façon la plus simple de générer un QR code:
+
+```bash
+# Générer un QR code pour la référence E10000
+npm run quick E10000
+
+# Ou avec un chemin personnalisé
+node quick-start.js E10000 ./mon-qrcode.svg
+```
+
 ## 🎯 Utilisation
 
 ### Exemple simple
