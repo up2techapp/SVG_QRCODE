@@ -30,6 +30,18 @@ npm run quick E10000
 node quick-start.js E10000 ./mon-qrcode.svg
 ```
 
+## 📥 QR Codes pré-générés
+
+**Vous avez besoin de 10 000 QR codes immédiatement ?**
+
+Téléchargez l'archive ZIP avec 10 000 QR codes pré-générés (E000000 à E009999) :
+
+👉 **[Télécharger QR-Codes-E000000-E009999.zip](releases/QR-Codes-E000000-E009999.zip)** (4.9 MB)
+
+📋 Contient : 10 008 fichiers SVG | Taille décompressée : 9.04 MB
+
+Pour plus d'informations, consultez le [README des releases](releases/README.md).
+
 ## 🎯 Utilisation
 
 ### Exemple simple
